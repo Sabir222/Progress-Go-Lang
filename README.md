@@ -1,9 +1,24 @@
 # To-Learn List
 
 - [x] Install Go
+- [x] Conditional Statements: `if`, `else`, `switch`
+- [x] Loops: `for` loops, range-based loops
+- [x] Functions: Declaration, parameters, return values, multiple return values
+- [ ] Arrays: Declaration, initialization, accessing elements
+- [x] Slices: Creating, slicing arrays, common operations
+- [ ] Maps: Creating, adding, accessing, deleting elements
+- [ ] Structs: Declaration, usage, embedding
+- [x] Methods: Associating methods with structs
+- [ ] Interfaces: Declaration and implementation
+- [ ] Defer, Panic, and Recover
 - [ ] Pointers
 - [ ] Go Concurrency
 - [ ] Go Context
 - [ ] Go routines/Channels
 - [ ] Go tests
 - [ ] Fiber
+- [ ] Microservices: Architecture with Go
+- [ ] Make basic app with std library
+- [ ] Networking in Go
+- [ ]
+- [ ]
