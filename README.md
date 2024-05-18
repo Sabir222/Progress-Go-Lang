@@ -8,6 +8,7 @@
 - [x] Slices: Creating, slicing arrays, common operations
 - [ ] Maps: Creating, adding, accessing, deleting elements
 - [ ] Structs: Declaration, usage, embedding
+- [ ] Enums / Interfaces
 - [x] Methods: Associating methods with structs
 - [ ] Interfaces: Declaration and implementation
 - [ ] Defer, Panic, and Recover
@@ -20,5 +21,6 @@
 - [ ] Microservices: Architecture with Go
 - [ ] Make basic app with std library
 - [ ] Networking in Go
-- [ ]
-- [ ]
+- [ ] Http (client / server)
+- [ ] File system
+- [ ] JSON / XML
